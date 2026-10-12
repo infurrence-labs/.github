@@ -1,6 +1,7 @@
 # Infurrence Labs
 
-**Open-source software releases and developer utilities.**
+Boutique AppleOS craft, developer utilities, and cognitive tooling.  
+A software imprint of **[@cdg347](https://github.com/cdg347)**.
 
-> 🚀 Active repositories and primary releases are published under our apex handle:  
-> 👉 **[github.com/infurrence](https://github.com/infurrence)**
+### Active Projects
+- **[opencode-clickable-paths](https://github.com/infurrence-labs/opencode-clickable-paths)** — Clickable file paths & Finder reveals in OpenCode Desktop chat.
